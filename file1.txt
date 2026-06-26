@@ -1,0 +1,9 @@
+this is the file 1 of main branch 
+
+random text :
+2. Go to Settings
+A dropdown menu will appear. Click on Settings.
+
+3. Enter the Danger Zone
+Once you are on the Settings page, scroll all the way down to the bottom. You are looking for a section outlined in red, 
+dramatically titled the Danger Zone.
