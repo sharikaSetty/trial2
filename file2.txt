@@ -1,0 +1,9 @@
+this isfile 2 for a new branch 'side '
+
+random context : 
+4. Choose Your Method of Destruction
+You will have two options here:
+
+Close project: This basically archives it. It removes it from your active view but keeps the data just in case you ever want to resurrect it.
+
+Delete project: This nukes it from orbit. If you click this, GitHub will usually ask you to type the name of the project to confirm you really want to destroy it. Since this is an empty experiment, this is the one you want.
